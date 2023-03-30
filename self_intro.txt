@@ -1,0 +1,20 @@
+product introduction:
+
+CloudHive, developed by Hillstone Network Technology, is a security protection product designed for cloud platforms, both public and private. It is deployed in the form of virtual machines, utilizing patented flow control technology to achieve micro-isolation between virtual machines. CloudHive offers users comprehensive cloud security services, including threat detection and isolation between virtual machines, as well as between virtual machines and the external network. It also provides traffic, application, and threat visualization, network attack auditing, and traceability.
+
+CloudHive is a software product that is deployed in virtual machine form within a cloud platform. It consists of four types of virtual machines: vSOM, vSCM, vSSM, and vDSM (optional). The vSOM virtual security orchestration module manages the entire lifecycle of the CloudHive security service. The vSCM virtual security control module is responsible for security configuration management and scheduling of virtual security business modules. It is typically deployed redundantly to avoid single-point failures and improve reliability. The vSSM virtual security service module is responsible for executing specific security functions, such as access control and attack prevention. Deploying a vSSM on each physical server that requires protection will ensure that all virtual machines on that server are protected. Up to 200 vSSM virtual security service modules can be deployed, supporting cloud data centers with up to 200 physical servers.
+
+selfintroduction
+
+Hello, my name is zhangjin. I graduated from Hohai 第四代阶段 University with a Bachelor's degree in Mathematics and Applied Mathematics in 2018, and later obtained a Master's degree in Computer Technology from the same university in 2021.
+
+I am proficient in Python programming and have experience in business development. I am also familiar with the Django and uwsgi development frameworks, as well as the singleton design pattern. In addition, I have knowledge of Linux command-line operations, VMware and its NSX-T platform development and usage; On network, I konw about TCP/IP, UDP, GENEVE and other network protocols.
+
+My project experience includes developing and maintaining CloudHive, a security protection product for cloud platforms, where I adapted the product to work with VMware's NSX-T platform and other platform. I was responsible for the development and maintenance of this feature, including the decomposition and packaging of GENEVE messages sent from the NSX-T manager to CloudHive's firewall. I also worked on authentication support for the CloudHive firewall, and I was responsible for debugging and troubleshooting issues.
+
+As for certifications, I have earned a level three certification in啊大姐hi哦啊家店铺 Information and Communication Network Operations Management, as well as passing the CET-4 and CET-6 English proficiency tests.
+
+In terms of personal qualities, I am a team player with good communication skills and a friendly personality. I enjoy sports, particularly table tennis.
+
+Thank you for considering my application.
+的骄傲哦帕尔瓦级的  dajopwjedapwjd djaowihjd 的骄傲的
